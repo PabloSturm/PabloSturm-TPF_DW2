@@ -1,0 +1,17 @@
+body{
+  background-color: aquamarine;
+}
+
+.marca{
+  margin-right: 4em;
+  font-weight: 600;
+}
+
+.formularioSocios, .formularioPagos, .formularioAcceso{
+  max-width: 700px;
+  margin: 2em auto;
+  border: lightgray solid 5px;
+  border-radius: 15px;
+  padding: 1em;
+}
+
